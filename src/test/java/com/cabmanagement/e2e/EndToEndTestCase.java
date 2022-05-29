@@ -1,3 +1,5 @@
+package com.cabmanagement.e2e;
+
 import com.cabmanagement.entity.Address;
 import com.cabmanagement.entity.Cab;
 import com.cabmanagement.entity.City;
